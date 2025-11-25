@@ -38,4 +38,4 @@ jobs:
               with:
                   message: |
                       Preview ready.
-                      https://ReiNakarani/test/preview/pr-${{ github.event.number }}/
+                      https://reinakarani.github.io/test/preview/pr-${{ github.event.number }}/
